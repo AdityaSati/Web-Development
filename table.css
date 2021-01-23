@@ -1,0 +1,33 @@
+table{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 200px;
+}
+
+.alpa{
+    color: #fc3004;
+}
+
+.beta{
+    color: #041efc;
+}
+
+.charlie{
+    color: #d604fc;
+}
+
+tbody tr:nth-child(odd){
+    background-color: #d1d1d1;
+}
+
+table, tr, th, td{
+    border: 1px dotted black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table{
+    border: 1px solid gray;
+}
