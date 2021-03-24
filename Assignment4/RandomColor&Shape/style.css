@@ -1,0 +1,19 @@
+p {
+  text-align: center;
+  font-size: large;
+  color: black;
+}
+.container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  background-color: #ecf8f8;
+}
+#shape {
+  height: 10%;
+  width: 10%;
+  margin: auto;
+  /* align-self: center; */
+  /* justify-self: center; */
+  background-color: black;
+}
